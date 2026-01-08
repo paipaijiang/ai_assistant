@@ -1,0 +1,2 @@
+# ai_assistant
+基于python的使用智谱AI接口的AI运维学习助手
